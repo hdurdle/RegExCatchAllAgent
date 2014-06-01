@@ -11,6 +11,8 @@ ban list.
 With thanks to Wilbert De Graaf (wilbertdg@hotmail.com) whose CatchAllAgent work
 saved me a lot of time!
 
+[![Build status](https://ci.appveyor.com/api/projects/status/s4mbap51svaf1pcg)](https://ci.appveyor.com/project/hdurdle/regexcatchallagent)
+
 Usage:
 -----
 
