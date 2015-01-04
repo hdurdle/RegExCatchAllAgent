@@ -1,6 +1,10 @@
 RegExCatchAllAgent
 ==================
 
+> NOTE: To work correctly you must build the solution with references to 
+> the correct Microsoft Exchange DLLs.
+> These must match exactly, down to the Service Pack level.
+
 An Exchange 2007 and 2010 Transport Protocol agent that implements catch
 all for multiple addresses via regular expressions and also includes a recipient
 ban list.
